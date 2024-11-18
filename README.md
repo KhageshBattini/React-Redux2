@@ -1,3 +1,14 @@
+use the below credentials for the login
+
+username: eve.holt@reqres.in
+password: anything you can type
+
+
+
+
+
+
+
 props drilling --> context api is created to avoid prop drilling.
 
 useState, useReducer, context api ---> local statement management.
@@ -57,6 +68,3 @@ use the store in the places required.
 
 
 
-
-
-eve.holt@reqres.in
